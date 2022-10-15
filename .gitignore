@@ -18,3 +18,5 @@ git add .
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+git remote add origin https://github.com/H4rshSingh/NewsHub.git
